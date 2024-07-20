@@ -41,7 +41,7 @@ body {
 }
 .left {
     width: 60%;
-    padding: 0 3rem 3rem;
+    padding: 0 2rem 2rem;
     background-image: url('./images/bg-pattern-desktop.svg');
     background-size: cover;
     background-position: center;
@@ -61,8 +61,8 @@ body {
     background-repeat: no-repeat;
 }
 .logo {
-    margin: 4rem 0 6rem;
-    width: 158px;
+    margin: 4rem 0 6rem 0;
+    width: 160px;
 }
 .bg-mob {
     display: none;
